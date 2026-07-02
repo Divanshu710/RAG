@@ -1,0 +1,4 @@
+Machine Learning Introduction
+Machine learning is a subfield of artificial intelligence that enables computers to learn from data and improve over time.
+Common techniques include regression, classification, clustering, and neural networks.
+Applications include recommendation systems, fraud detection, and language translation.
